@@ -2,9 +2,9 @@
 TeamName private repository for CS3704 Project
 
 Members:
-Brandon Hoang (bh03)
-Connor Graves (cwgraves)
-Ethan Bourne (ethanbourne25)
+Brandon Hoang (bh03),
+Connor Graves (cwgraves),
+Ethan Bourne (ethanbourne25),
 Maya Makked (mayam22)
 
 Overview:
