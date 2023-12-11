@@ -1,5 +1,5 @@
 # CS3704-TeamName
-TeamName private repository for CS3704 Project
+TeamName repository for CS3704 Project
 
 Members:
 Brandon Hoang (bh03),
